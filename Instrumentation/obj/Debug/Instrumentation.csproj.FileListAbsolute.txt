@@ -1,0 +1,10 @@
+C:\Users\moc\documents\visual studio 2013\Projects\ParkSystemApp\Instrumentation\bin\Debug\Instrumentation.dll
+C:\Users\moc\documents\visual studio 2013\Projects\ParkSystemApp\Instrumentation\bin\Debug\Instrumentation.pdb
+C:\Users\moc\documents\visual studio 2013\Projects\ParkSystemApp\Instrumentation\obj\Debug\Instrumentation.csprojResolveAssemblyReference.cache
+C:\Users\moc\documents\visual studio 2013\Projects\ParkSystemApp\Instrumentation\obj\Debug\Instrumentation.dll
+C:\Users\moc\documents\visual studio 2013\Projects\ParkSystemApp\Instrumentation\obj\Debug\Instrumentation.pdb
+C:\Users\usuario\Desktop\ParkSystemApp\Instrumentation\bin\Debug\Instrumentation.dll
+C:\Users\usuario\Desktop\ParkSystemApp\Instrumentation\bin\Debug\Instrumentation.pdb
+C:\Users\usuario\Desktop\ParkSystemApp\Instrumentation\obj\Debug\Instrumentation.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ParkSystemApp\Instrumentation\obj\Debug\Instrumentation.dll
+C:\Users\usuario\Desktop\ParkSystemApp\Instrumentation\obj\Debug\Instrumentation.pdb
